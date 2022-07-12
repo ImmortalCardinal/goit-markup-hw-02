@@ -1,29 +1,22 @@
-.mainpage {
-    background: #E5E5E5;
-}
-
-.bodyportfolio{
-    background: #E5E5E5;
+.page_header{
+    background: #FFFFFF;
+    width: 1600px;
+    height: 80px;
 }
 .logo{
-    padding-top: 24;   
+    padding: 24px,1240px,25px,215px;
 }
-/*Ссилки в хедері*/
-.studio{
-    padding-top: 32px;
-}
-.portfolio{
-    padding: 32px 1098px 32px 453px;
-}
-.contacts{
-    padding: 32px 1098px 32px 453px;
-}
-.studio,.portfolio,.contacts 
-{
+.site_nav,.adress{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
     letter-spacing: 0.02em;
+}
+.adress{
+
+}
+.site_nav{
+    padding-top: 32px;
 }
