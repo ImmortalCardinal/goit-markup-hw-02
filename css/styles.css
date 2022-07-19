@@ -40,10 +40,11 @@ list-style:  none;
 
 .page_header
 {
-    background: #FFFFFF;
+background: #FFFFFF;
 }
 /* Стилізуємо шрифт всього BODY*/
-.body,.bodyportfolio
+.body,
+.bodyportfolio
 {
 color: #212121;
 font-family: 'Roboto', sans-serif;
@@ -70,10 +71,6 @@ color: #212121;
 .site_nav  .link:focus
 {
 color: #2196F3;
-}
-.site_nav .link:active
-{
-background: #2196F3;
 }
 .mailtel:hover,
 .mailtel:focus
